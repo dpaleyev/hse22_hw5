@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1MMSmK8tF0y_3jSoVY5K5PEbAMZjqffmI?usp=sh
 
 ## Heatmap
 Как мы видим, несмотря на отсутсвие длин, мы получили такой же Heatmap, как и ожидалось
-![Image](/img/mark.png)
+![Image](/img/heatmap.png)
 
 ## UMAP и PCA
 UMAP | PCA 
